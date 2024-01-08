@@ -42,6 +42,8 @@ New Deaths: The daily number of cases per day in a country
 **View PowerBI Report Here👇**
 https://app.powerbi.com/view?r=eyJrIjoiMzJhNDljM2UtZTcxYi00YmRmLWJiMDktMTgyYjE0MDg1ZWRmIiwidCI6Ijg2NTNhOTQwLTQ3MTItNDc5ZC04NzBlLWY5NTdhMTQzMjFlMCJ9
 
+<iframe title="Monkeypox Mortality 2022" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzJhNDljM2UtZTcxYi00YmRmLWJiMDktMTgyYjE0MDg1ZWRmIiwidCI6Ijg2NTNhOTQwLTQ3MTItNDc5ZC04NzBlLWY5NTdhMTQzMjFlMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 
 **Conclusion**
 
