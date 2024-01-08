@@ -33,8 +33,8 @@ Total Cases: The daily cumulative addition of each case per country
 Total Deaths: The daily cumulative addition of each death per country
 New Case: The daily number of cases per day in a country
 New Deaths: The daily number of cases per day in a country
-![image](https://github.com/PauloDaguvnor/Monkey-Pox-Fatality-2022/assets/20201164/28fe15e6-bbe3-4161-b78b-8df7307c3061)
 
+![image](https://github.com/PauloDaguvnor/Monkey-Pox-Fatality-2022/assets/20201164/28fe15e6-bbe3-4161-b78b-8df7307c3061)
 
 ![image](https://github.com/PauloDaguvnor/Monkey-Pox-Fatality-2022/assets/20201164/871beecf-a703-443c-b52a-1ec92e34596f)
 
